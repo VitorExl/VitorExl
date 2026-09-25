@@ -174,6 +174,8 @@ Me chamo Vitor Freitas, sou de 2005 e resido em Minas Gerais. Sou Técnico em In
 <br/>
 <br/>
 
+---
+
 ### 📊 Estatísticas
 
 <p>
